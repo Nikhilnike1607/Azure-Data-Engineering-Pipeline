@@ -1,7 +1,3 @@
-
-Ultimate Data Engineering Program by Sumit Sir
-https://trendytech.in
-
 Technology - Azure Data Engineering Stack
 
 Domain - Healthcare Revenue Cycle Management (RCM)
@@ -113,16 +109,6 @@ EMR Data - Electronic Medical Records (Azure SQL DB)
 	- Department
 	- Transactions
 	- Encounter
-
-
-Bangalore
-
-Manipal hospital
-
-Columbia Asia
-
-Hospital a - trendytech-hospital-a
-Hospital b - trendytech-hospital-b
 
 
 Claims Data - Insurance company (Flat files)
@@ -612,40 +598,11 @@ modified date - 11th Nov 2022
 is_current true
 
 
-modified date - 1st Jan 2024
-is_current false
-
-
-Sumit - Hyderabad (Tarnaka)
-
-inserted date 		1st Jan 2024
-modified date -   1st Jan 2024
-is_active - true
-
-
 target table - silver.patients
 
 source table - quality_checks
 
 patient_key
-
-101 - Hyderabad Himayat Nagar 
-inserted date - 11th Nov 2022
-modified date - 11th Nov 2022
-is_current true
-
-modified date - 1st Jan 2024
-is_current - false
-
-yet to be done
-================
-101 Sumit Hyderabad Tarnaka
-is_current true
-inserted date - 1st Jan 2024
-modified date - 1st Jan 2024
-
-
-New record
 
 Update 
  - end dated the previous one and marked it as inactive
@@ -662,7 +619,6 @@ is_current = true
 
 is_quarantined = false
 
-/Users/trendytech.sumit501@outlook.com/3. Silver/Transactions
 
 ADF
 
@@ -672,10 +628,5 @@ EMR Data
 Claims
 Codes
 
-Github
-=======
-
-username
-token
 
 
